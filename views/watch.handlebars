@@ -50,6 +50,7 @@
 
 </div>
 
+
 <script type="text/javascript">
 //movie search
    $("#submit").click(function (e) {
@@ -128,7 +129,6 @@ $("#reco").click(function () {
         $.ajax("/api/userprefmoviedb/"+user.id, {
             type: "GET"
         }).then(function (data) {
-
             $.ajax("/api/genre/"+data[0].moviegenreId, {
             type: "GET"
             }).then(function (arg) {
