@@ -1,6 +1,9 @@
-# Node, Express, Passport and Sequelize Starter
+# Reel Planner
 
-## Boilerplate for a starter MVC node application
+## Description
+* This app utilizes the power of The Movie Database (TMDb) to find movie recommendations taylored to your preferences.
+* After you watch a movie you can save it in your personal movie history and mark whether or not you liked it.
+* Get started by making an account and selecting your favorite types of movies
 
 ### This app uses several technologies including:
  * Node
@@ -11,8 +14,9 @@
  * eslint for JS linting
  * Travis CI for clean linted Pull Requests
  * Mocha and Chi for Testing
- * jQuery on Front End
- * Bootstrap 4 on Front End
+ * jQuery
+ * Materialize
+ * SweetAlert
 
  ### Must create database before running server
 
