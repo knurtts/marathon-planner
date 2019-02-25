@@ -4,6 +4,7 @@
 * This app utilizes the power of The Movie Database (TMDb) to find movie recommendations taylored to your preferences.
 * After you watch a movie you can save it in your personal movie history and mark whether or not you liked it.
 * Get started by making an account and selecting your favorite types of movies
+* Deployed version of this app: https://peaceful-falls-98746.herokuapp.com/
 
 ### This app uses several technologies including:
  * Node
