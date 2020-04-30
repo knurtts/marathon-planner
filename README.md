@@ -1,4 +1,5 @@
 # Reel Planner
+* Deployed Project:[Reel Planner](https://peaceful-falls-98746.herokuapp.com/)
 
 ## Description
 * This app utilizes the power of The Movie Database (TMDb) to find movie recommendations taylored to your preferences.
